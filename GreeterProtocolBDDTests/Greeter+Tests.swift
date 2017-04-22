@@ -27,7 +27,6 @@ class GreeterTests: XCTestCase, Greetable {
         
         continueAfterFailure = false
         
-        XCUIApplication().launch()
     }
     
     override func tearDown() {

@@ -15,7 +15,6 @@ class GreeterPredefinedTests: XCFit, Greetable {
     override func setUp() {
         super.setUp()
         continueAfterFailure = false
-        XCUIApplication().launch()
     }
     
     override func tearDown() {

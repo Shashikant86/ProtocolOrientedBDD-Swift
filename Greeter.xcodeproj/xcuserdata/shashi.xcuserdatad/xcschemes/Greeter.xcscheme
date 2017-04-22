@@ -32,16 +32,6 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9B5A442E1EA954CA0013D93B"
-               BuildableName = "GreeterUITests.xctest"
-               BlueprintName = "GreeterUITests"
-               ReferencedContainer = "container:Greeter.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
                BlueprintIdentifier = "9B5A444A1EA95F6A0013D93B"
                BuildableName = "GreeterProtocolBDDTests.xctest"
                BlueprintName = "GreeterProtocolBDDTests"
