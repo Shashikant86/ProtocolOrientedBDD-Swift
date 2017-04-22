@@ -1,0 +1,6 @@
+framework module Pods_GreeterProtocolBDDTests {
+  umbrella header "Pods-GreeterProtocolBDDTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
